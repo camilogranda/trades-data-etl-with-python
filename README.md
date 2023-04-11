@@ -6,6 +6,6 @@
 3. Data load to aws redshift data warehouse service.
 
 #### Pentaho:
-1. Same ETL purpose as with Python but using pentaho (.ktr file)
+1. Same ETL objective as with Python but using pentaho (.ktr file)
 
 ![etl_pentaho](https://user-images.githubusercontent.com/106115784/231077673-c952e953-3ac1-4280-90da-c6d634e9a912.png)
